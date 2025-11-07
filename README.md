@@ -35,7 +35,7 @@ This is a repository for placing various ESP32 series chip motor solutions.
 1. 克隆项目到本地：
 ```bash
 git clone https://github.com/wireless-tag-com/Yix_Motorhand.git
-cd test1
+cd Yix_Motorhand\test1
 ```
 
 2. 配置项目：
